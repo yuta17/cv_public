@@ -60,6 +60,13 @@
     - チーム開発とオブジェクト指向について
     - 入社4ヶ月目のエンジニアが新規事業の立ち上げに挑戦した話
 
+## 執筆記事
+
+- [タップでかんたん支援！クイック支援をリリースしました！](https://note.mu/campfire_dev/n/n72acb517aecc2)
+- [プロジェクトの支援がしやすく！ログインせずに支援できるようになりました](https://note.mu/campfire_dev/n/nb5969d388fd3)
+- [Rails に Webpack と Vue を導入しました！](https://note.mu/campfire_dev/n/n1686059962b5)
+- [Digdag + Embulk によるデータマスキング](https://qiita.com/Hassan/items/065dd6bd3c123e1a6092)
+
 ## 業務外の活動
 
 - [Twitter](https://twitter.com/hassasa3)
