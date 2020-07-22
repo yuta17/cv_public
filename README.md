@@ -19,15 +19,22 @@
 
 ### 2020年3月 - 現在 フリーランス
 
-- toCの飲食サービス
-  - Nuxt.js を用いた UI 実装
-  - Nuxt.js の Lint / Test / CI 環境を整備
-  - AWS のインフラ設計、設計図作成
-  - API 設計、仕様書作成
+#### ASMR アプリの API 開発
 
-- クラウドファンディングサービス
-  - staging DB にマスクした本番データを同期
-  - スロークエリの調査対応
+- 機能開発
+- [速度改善](https://twitter.com/hassasa3/status/1280674720153653248?s=20)
+
+#### クラウドファンディング
+
+- Digdag + Embulk を用いて staging DB にマスクした本番データを同期
+- スロークエリの調査対応
+
+#### toCの飲食サービス (~3月: コロナにより中断)
+
+- Nuxt.js を用いた UI 実装
+- Nuxt.js の Lint / Test / CI 環境を整備
+- AWS のインフラ設計、設計図作成
+- API 設計、仕様書作成
 
 ### 2018年3月 - 2020年2月 株式会社CAMPFIRE
 
@@ -37,7 +44,7 @@
     - クイック支援
     - 複数選択の支援
   - Ruby、Rails のバージョンアップデート
-  - Webpack、Vue.jsの導入
+  - Webpack + Vue.jsの導入
   - レコメンド機能の実装
   - 決済の不正検知の設計・実装
   - GDPR、多言語対応
@@ -46,7 +53,7 @@
 - SREエンジニア
   - インフラ構成図の作成
   - Terraform を用いたインフラ構築、修正
-  - Fargate x Digdag x Embulk を用いた分析DBの構築
+  - Fargate + Digdag + Embulk を用いた分析DBの構築
   - スロークエリの調査対応
   - 障害対応
 
@@ -83,5 +90,11 @@
 
 ## 今後やりたいこと
 
-- 新規事業の開発
-- Golang / TypeScript
+### 技術
+
+Ruby on Rails アプリケーションの開発。  
+Go の採用にも前向きです。
+
+### 業界
+
+特に決めていませんが、toC 事業を好みます。
