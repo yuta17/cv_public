@@ -23,15 +23,18 @@
 
 - 機能開発
   - 簡易的なレコメンド機能の実装
+  - レコメンド SaaS との繋ぎこみ
   - Firebase Cloud Message を使った Push 通知の実装
-- [APIのレスポンス速度改善](https://twitter.com/hassasa3/status/1280674720153653248?s=20)
+  - その他細かい機能開発
+- APIのレスポンス速度改善
   - N+1の解消
-  - 遅い SQL を確認し index を貼る
+  - 遅い SQL を確認し index を貼る (1282倍の速度改善)
 
 #### クラウドファンディング
 
-- Digdag + Embulk を用いて staging DB にマスクした本番データを同期
+- Digdag + Embulk を用いて staging DB にマスクした本番データを定期同期
 - スロークエリの調査対応
+- AWS の権限整理
 
 #### toCの飲食サービス (~3月: コロナにより中断)
 
@@ -41,6 +44,9 @@
 - API 設計、仕様書作成
 
 ### 2018年3月 - 2020年2月 株式会社CAMPFIRE
+
+- CAMPFIRE のリプレイス終盤から参画
+  - バグ修正 & テスト追加
 
 - CAMPFIRE の開発を担当
   - 支援周りの機能設計・実装
@@ -85,7 +91,7 @@
 
 ### 個人開発
 
-- [Qdash](https://q-dash.jp)
+- 請求書・作業報告書の自動作成サービス [Klow](https://klow.app)
 
 ## 今後やりたいこと
 
