@@ -96,7 +96,7 @@
 
 #### 利用技術
 
-- Vue 2 / Composition API / TypeScript
+- Nuxt.js (Vue 2) / Composition API / TypeScript
 - Ruby 2.7.0 / Rails 6
 - PostgreSQL
 - Heroku
