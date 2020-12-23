@@ -26,9 +26,12 @@
   - レコメンド SaaS との繋ぎこみ
   - Firebase Cloud Message を使った Push 通知の実装
   - その他機能開発
-- APIのレスポンス速度改善
-  - N+1の解消
-  - 遅い SQL を確認し Index を貼る (1282倍の速度改善など)
+- レスポンス速度改善
+  - N+1の解消 (十数個)
+  - 遅い SQL を確認し Index を貼る (1000倍以上の速度改善など)
+- 開発環境改善
+  - Docker (docker-compose) 化
+  - CodeBuild を用いた CI 構築
 
 #### クラウドファンディング
 
