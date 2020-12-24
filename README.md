@@ -91,6 +91,7 @@
 - [Twitter](https://twitter.com/hassasa3)
 - [GitHub](https://github.com/yuta17)
 - [Qiita](https://qiita.com/Hassan)
+- [zenn](https://zenn.dev/hassan)
 - [note](https://note.com/usabdelah)
 
 ### 個人開発
