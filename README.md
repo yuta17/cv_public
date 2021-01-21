@@ -19,13 +19,14 @@
 
 ### 2020年3月 - 現在 フリーランス
 
-#### ASMR アプリの API 開発
+#### toC動画アプリのAPI開発
 
 - 機能開発
   - 簡易的なレコメンド機能の実装
-  - レコメンド SaaS との繋ぎこみ
+  - レコメンド SaaS とのデータ連携
   - Firebase Cloud Message を使った Push 通知の実装
-  - その他機能開発
+  - Firebase Authentication を使った SNS 認証
+  - その他様々
 - レスポンス速度改善
   - N+1の解消 (十数個)
   - 遅い SQL を確認し Index を貼る (1000倍以上の速度改善など)
@@ -33,7 +34,7 @@
   - Docker (docker-compose) 化
   - CodeBuild を用いた CI 構築
 
-#### クラウドファンディング
+#### クラウドファンディングサービスのSRE
 
 - Digdag + Embulk を用いて staging DB にマスクした本番データを定期同期
 - スロークエリの調査対応
