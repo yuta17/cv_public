@@ -31,14 +31,14 @@ Rails メインのフリーランスエンジニア。
   - メンバーの作業の可視化
     - Asana/GitHub の Slack 通知
     - 分報の導入
-  - Non product day の導入
+- 採用面接
 - 設計レビュー
 
 #### toB&toC 保険管理サービス
 
 - API の機能開発、修正
 - Swagger ファイルを分割 (Committee のテストが通るように)
-- Flutter での UI 開発、リファクタ
+- Flutter + Redux での UI 実装、リファクタ
 
 #### toC 動画アプリの API 開発
 
