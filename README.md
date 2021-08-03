@@ -21,34 +21,19 @@ Rails メインのフリーランスエンジニア。
 
 ### 2020 年 3 月 - 現在 フリーランス
 
-#### toB 店舗向けサービス
-
-- プロジェクトマネジメント
-  - スプリント管理
-    - カンバン管理
-    - MTG ファシリ
-    - タスクアサイン
-  - メンバーの作業の可視化
-    - Asana/GitHub の Slack 通知
-    - 分報の導入
-- 採用面接
-- 設計レビュー
-
 #### toB&toC 保険管理サービス
 
 - API の機能開発、修正
-- Swagger ファイルを分割 (Committee のテストが通るように)
-- Flutter + Redux での UI 実装、リファクタ
+- Flutter + Redux での機能実装
 
 #### toC 動画アプリの API 開発
 
 - 機能開発
-  - 簡易的なレコメンド機能の実装
   - レコメンド SaaS とのデータ連携
   - 不正 PV の対策
   - Firebase Cloud Message を使った Push 通知の実装
   - Firebase Authentication を使った SNS 認証
-  - その他機能開発・改修
+  - その他、機能開発・改修
 - レスポンス速度改善
   - N+1 の解消 (十数個)
   - 遅い SQL を確認し Index を貼る (1000 倍以上の速度改善など)
@@ -64,7 +49,7 @@ Rails メインのフリーランスエンジニア。
 
 #### toC の飲食サービス (~3 月: コロナにより中断)
 
-- Nuxt.js を用いた UI 実装
+- Nuxt.js での機能実装
 - Nuxt.js の Lint / Test / CI 環境を整備
 - AWS のインフラ設計、設計図作成
 - API 設計、仕様書作成
@@ -83,7 +68,6 @@ Rails メインのフリーランスエンジニア。
     - まとめ支援
   - Ruby、Rails のバージョンアップデート
   - Webpack + Vue.js の導入
-  - レコメンド機能の実装
   - 決済の不正検知の設計・実装
   - GDPR、多言語対応
   - 設計・コードレビュー
@@ -134,7 +118,7 @@ Rails メインのフリーランスエンジニア。
 ### 技術
 
 Ruby on Rails アプリケーションの開発。  
-サブとして Nuxt.js (TypeScript) / Flutter / AWS など
+次に Flutter / Nuxt.js, Next.js (with TypeScript) など
 
 ### 業界
 
