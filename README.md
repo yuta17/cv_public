@@ -21,14 +21,14 @@ Rails メインのフリーランスエンジニア。 → 法人化
 
 ### 2020 年 3 月 - 現在 フリーランス
 
-#### 暗号通貨の取引所/NFT マーケット
+#### 暗号通貨の取引所/NFT マーケットプレイス
 
-- 機能開発など
+- 新機能開発など
 
 #### toB&toC 保険管理サービス
 
-- API の機能開発、修正
-- Flutter + Redux での機能実装
+- Rails API での機能開発、修正
+- Flutter での機能実装
 
 #### toC 動画アプリの API 開発
 
@@ -39,8 +39,8 @@ Rails メインのフリーランスエンジニア。 → 法人化
   - Firebase Authentication を使った SNS 認証
   - その他、機能開発・改修
 - レスポンス速度改善
-  - N+1 の解消 (十数個)
-  - 遅い SQL を確認し Index を貼る (1000 倍以上の速度改善など)
+  - N+1 の解消
+  - 遅い SQL を確認し Index を貼る
 - 開発環境改善
   - Docker (docker-compose) 化
   - CodeBuild を用いた CI 構築
@@ -95,6 +95,7 @@ Rails メインのフリーランスエンジニア。 → 法人化
 
 - [タップでかんたん支援！クイック支援をリリースしました！](https://note.mu/campfire_dev/n/n72acb517aecc2)
 - [プロジェクトの支援がしやすく！ログインせずに支援できるようになりました](https://note.mu/campfire_dev/n/nb5969d388fd3)
+- [Rails5.1.6 から 2.2.2.1 へアップデートしました！](https://note.com/campfire_dev/n/nb5969d388fd3)
 - [Rails に Webpack と Vue を導入しました！](https://note.mu/campfire_dev/n/n1686059962b5)
 - [Digdag + Embulk によるデータマスキング](https://qiita.com/Hassan/items/065dd6bd3c123e1a6092)
 
@@ -126,8 +127,9 @@ Ruby on Rails アプリケーションの開発。
 
 ### 業界
 
-特に決めていませんが、toC 事業を好みます。
+業界は特に決めていない。  
+toC 事業を好む傾向にある。
 
 ### 目標
 
-自分でゼロから収益性のあるサービスを作り出すことが個人的な目標です。
+自分でゼロから収益性のあるサービスを作り出すことが目標。
